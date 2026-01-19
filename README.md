@@ -51,8 +51,8 @@ testimonial-ai-generator/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/testimonial-ai-generator.git
-   cd testimonial-ai-generator/backend
+   git clone https://github.com/vishnujangid88/Testimonial-Generation-using-LLM.git
+   cd Testimonial-Generation-using-LLM/backend
    ```
 
 2. **Install dependencies**
